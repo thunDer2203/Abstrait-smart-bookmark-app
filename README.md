@@ -8,8 +8,8 @@ Users can securely log in with Google, add and delete bookmarks, and see updates
 
 ## 🌟 Live Demo
 
-🔗 Live URL: (Add your Vercel link here)  
-📂 GitHub Repo: (Add your GitHub repo link here)
+🔗 Live URL: https://abstrait-smart-bookmark-app.vercel.app/
+📂 GitHub Repo: https://github.com/thunDer2203/Abstrait-smart-bookmark-app
 
 ---
 
